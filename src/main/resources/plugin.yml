@@ -1,0 +1,5 @@
+name: YasuiPatch
+version: ${project.version}
+main: com.bilicraft.yasuipatch.YasuiPatch
+api-version: 1.17
+description: 修复Yasui冻结的生物AI
